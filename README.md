@@ -3,6 +3,8 @@
 
 About Me 🤓
 - 🧑‍🎓University of Nottingham -> <code>Student</code>/ Sunway College -> <code>Alumni</code>
+- 🔭 I’m currently working on CS50P
+
 - 📱 Socials:
 
 ## Things I code with 💻:

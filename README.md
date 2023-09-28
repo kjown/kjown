@@ -13,6 +13,8 @@ About Me 🤓
 
 ## Languages I know 🌏
 - Python
+- C
+- ARM Assembly
 
 
 

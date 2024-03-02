@@ -9,7 +9,6 @@ About Me 🤓
 
 ## Things I code with 💻:
   - IDE: `Visual Studio Code` <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>
-  - OS: `Linux WSL`
     <br>
 
 ## Languages I am learning 🌏

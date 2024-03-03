@@ -14,8 +14,8 @@ About Me 🤓
 ## Languages I am learning 🌏
 - Python
 - C
-- ARM Assembly
-- HDL
+- Java
+- Haskell
 
 
 

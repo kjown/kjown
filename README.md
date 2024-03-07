@@ -16,6 +16,8 @@ About Me 🤓
 - C
 - Java
 - Haskell
+- Javascript
+- CSS
 
 
 

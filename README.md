@@ -3,9 +3,9 @@
 <br>
 
 ## About Me 🤓
-- 🧑‍🎓University of Nottingham -> <code>Student</code>/
+- University of Nottingham -> <code>Student</code>/
 - Sunway College -> <code>Alumni</code>
-- 🔭 I’m currently working on university 💀
+- I’m currently working on university 💀
 
 
 

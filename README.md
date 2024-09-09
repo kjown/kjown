@@ -2,7 +2,7 @@
 <img src="https://www.giantfreakinrobot.com/wp-content/uploads/2022/10/image-16-900x379.png" width="25%" height="25%"/>
 <br>
 
-## About Me 🤓
+## About Me 
 - University of Nottingham -> <code>Student</code>/
 - Sunway College -> <code>Alumni</code>
 - I’m currently working on university 💀
@@ -23,7 +23,8 @@
 
 #### Skills I am learning 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Godot]([https://img.shields.io/badge/godot](https://img.shields.io/badge/Made%20with-Godot-478CBF?style=flat&logo=godot%20engine&logoColor=white)](https://godotengine.org))
+[![Godot](https://img.shields.io/badge/Made%20with-Godot-478CBF?style=for-the-badge&logo=godot%20engine&logoColor=white)](https://godotengine.org)
+
 
 
 

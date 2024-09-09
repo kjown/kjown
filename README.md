@@ -23,7 +23,7 @@
 
 #### Skills I am learning 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Godot](https://img.shields.io/badge/godot)
+![Godot]([https://img.shields.io/badge/godot](https://img.shields.io/badge/Made%20with-Godot-478CBF?style=flat&logo=godot%20engine&logoColor=white)](https://godotengine.org))
 
 
 
